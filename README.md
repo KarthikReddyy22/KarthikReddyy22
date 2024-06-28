@@ -1,3 +1,3 @@
 # Karthik Reddy
-**Developer/Photographer**
+** Developer/Photographer **
 Hello!! 👋🏼
