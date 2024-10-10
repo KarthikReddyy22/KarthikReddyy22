@@ -2,6 +2,7 @@
 **`Developer/Photographer`**
 
 
-Hello!! 👋🏼
+"Hey there!! :]
 
-I am a Master's student in Computer Science who is interested in machine learning, web development and photography. You will find my hobby projects here.
+I'm a Computer Science Master's grad who loves all things machine learning 🤖, web development 💻, and photography 📸. I spend my time working on cool hobby projects and experimenting 
+with new tech and creative ideas!"
